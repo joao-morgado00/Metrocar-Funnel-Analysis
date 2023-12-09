@@ -8,5 +8,4 @@ Tableau Dashboard
 https://public.tableau.com/app/profile/joao.morgado7999/viz/MetrocarStory_16990503787050/MetrocarStory
 
 Video Presentation
-https://www.loom.com/share/588ddf9e7c7f4dfbb284333b7b5bda08?sid=808a5521-daec-
-493d-8994-3c447d1d596e
+https://www.loom.com/share/588ddf9e7c7f4dfbb284333b7b5bda08?sid=808a5521-daec-493d-8994-3c447d1d596e
